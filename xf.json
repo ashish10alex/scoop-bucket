@@ -1,19 +1,19 @@
 {
-    "version": "0.0.9",
+    "version": "0.0.10",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/ashish10alex/xf/releases/download/v0.0.9/xf_windows_amd64.zip",
+            "url": "https://github.com/ashish10alex/xf/releases/download/v0.0.10/xf_windows_amd64.zip",
             "bin": [
                 "xf.exe"
             ],
-            "hash": "a6f7cb4e804e95c35f626f3b76323187c07faeec15870fc8e0f562395e0c6cb7"
+            "hash": "5c43b81fcae071206587468ece3ded345e04e16e01878d6fad95d63c51dc2d00"
         },
         "arm64": {
-            "url": "https://github.com/ashish10alex/xf/releases/download/v0.0.9/xf_windows_arm64.zip",
+            "url": "https://github.com/ashish10alex/xf/releases/download/v0.0.10/xf_windows_arm64.zip",
             "bin": [
                 "xf.exe"
             ],
-            "hash": "aaa08fbc5cb99b41ff8b390403fba79265c446c108bf57dcd9344b81e73dd9c3"
+            "hash": "71ab2513b1650534db34dfd9c50e0ad7c15091fd6d5acfae9addfb9d9db15213"
         }
     },
     "homepage": "https://github.com/ashish10alex/xf",
